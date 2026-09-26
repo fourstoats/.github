@@ -1,12 +1,7 @@
-## Hi there 👋
+# Fourstoats
 
-<!--
+**Technology organization building software, intelligent systems, and infrastructure.**
 
-**Here are some ideas to get you started:**
+We research, build, and operate technology across **AI, software, and digital platforms**.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+[Website](https://fourstoats.com) · [Projects](https://github.com/fourstoats)
